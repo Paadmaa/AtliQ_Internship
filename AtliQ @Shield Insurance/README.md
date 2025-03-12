@@ -3,7 +3,7 @@ Shield Insurance Company provides reliable and comprehensive insurance plans for
 # Problem Statement    
 Shield Insurance aims to improve its data-driven decision-making by implementing a Power BI dashboard for actionable insights into key performance metrics. To evaluate this, they are considering a collaboration with AtliQ Technologies. As a Proof of Concept, Shield Insurance requires a Pilot Project in Power BI to demonstrate AtliQ’s capability to meet their specific needs before committing to a full-scale project.
 
-## 1. ASK  
+## 1. Ask  
 ### Questions: Preliminary Analysis  
 - Show total customers, total revenue, daily revenue growth, daily customer growth as key metrics
 - Month over month change% on key metrics
@@ -24,12 +24,12 @@ Shield Insurance aims to improve its data-driven decision-making by implementing
 - Age group vs policy preference
 
 
-## 2. PREPARE
+## 2. Preparation
 ### Data Storage:  
 The dataset is completely available on the Code basis website platform where it stores and consolidates all available datasets for analysis.       
 
 
-## 3. PROCESS
+## 3. Process
 ### Tools Used:
 - Microsoft Excel
 - Power BI, DAX Studio, DAX
@@ -85,7 +85,7 @@ This table contains information about policy settlement
 - Check all the data types & changed into necessary data type. Example: Settlement % 
 
 
-# 4. ANALYZE
+# 4. Analyze
 Data Analyzing  
 Power BI was used to analyze data.
 
@@ -127,16 +127,13 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - Total Customers = COUNT(dim_customer[customer_code])
 - Total Revenue = SUM(fact_premiums[final_premium_amt(INR)])
 
-# 5. SHARE
+# 5. Share
 ![Screenshot (309)](https://github.com/user-attachments/assets/5927ac1f-62b3-4480-b003-4acd370f7ebd)
 ![Screenshot (310)](https://github.com/user-attachments/assets/5c68c5b8-fa8b-4e1d-8f3d-7bae07c34589)
 ![Screenshot (311)](https://github.com/user-attachments/assets/c97a4674-6b4a-4eca-bc41-929efe37f54d)
 ![Screenshot (312)](https://github.com/user-attachments/assets/44f4ac83-3688-44a0-a670-d35df17ef822)
-![Screenshot (313)](https://github.com/user-attachments/assets/7225885e-4d64-4931-8ac6-bd4c3687569a)
 
-
-
-# 6. ACT	
+# 6. Act
 ### Insights:	
 - **Customer Base:** Shield Insurance has a total of 26,841 customers.
 - **Revenue:** The company generated a total revenue of 989.25 million.
@@ -155,4 +152,16 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - **Address Monthly Fluctuations:** Investigate the reasons behind the sharp decline in April 2023 to prevent future drops and ensure consistent growth.
 - **Promote Top-Performing Policies:** Highlight and expand marketing efforts around popular policies like "POL4321HEL" and high-revenue policies like "POL2005HEL."
 
-Thank you for reading and evaluating my repo :)  Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZjc2ZGY1MWItOThjNS00YzlkLTgzNzItMWZlMjVmNzA2ZDM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d88767304152b4646000)
+Thank you for reading and evaluating my repo :)
+
+## Author
+
+Padma Charana Behera  
+
+## Connect with Me
+
+You can find me on these platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
+
