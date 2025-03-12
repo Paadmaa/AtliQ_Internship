@@ -9,13 +9,7 @@ This project is a part of the [Codebasics Resume Project Challenge](https://code
 
 **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY3ZDkyNmYtMDg3Mi00ODc1LWJlOTQtYjdjZWU2MjJiMjhhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
 
-
-**[Video Presentation](https://youtu.be/8ZxUB6leoLM)**
-
-
 ***
-
-
 
 ## Project Objective -
 
@@ -31,8 +25,6 @@ As a Data Analyst, I analyzed the Indian EV market and provided insights to the 
 
 ***
 
-
-
 ## Data Sets
 
 I am Provided with 1 Dim table and 2 Fact Tables
@@ -40,15 +32,11 @@ I am Provided with 1 Dim table and 2 Fact Tables
 * EV_Sales_by_makers
 * EV_Sales_by_States
 
-
 ![data sets](https://github.com/user-attachments/assets/0579987e-2b9e-4d5c-8f77-0859c5816591)
-
-
 
 Furthermore, I gathered some extra data like how many charging stations are there in each state for a detailed analysis
 
 This is the data model that I have worked on
-
 
 ![data model](https://github.com/user-attachments/assets/b5446a1b-c5ac-47d5-a59e-69b14f27548f)
 
@@ -93,7 +81,7 @@ This dashboard Mainly contains 4 Pages
 
 ## Business Questions
 
-They have provided some business questions that I have to answer, this is basically for detailed market research. You can check my presentation pdf for all the answers also you can watch my presentation on [LinkedIn](https://www.linkedin.com/in/akash-singh-dataanalyst/).
+They have provided some business questions that I have to answer, this is basically for detailed market research. You can check my presentation pdf for all the answers also you can watch my presentation on [LinkedIn](https://www.linkedin.com/in/padmach-behera).
 
 
 ***
@@ -122,4 +110,4 @@ Like Tata Motors, AtliQ Motors should focus on building its own EV ecosystem to 
 ***
 
 ### Thank You for your time. 
-If you have any doubts you can connect with me on [LinkedIn](https://www.linkedin.com/in/akash-singh-dataanalyst/)
+If you have any doubts you can connect with me on [LinkedIn](https://www.linkedin.com/in/padmach-behera)
