@@ -1,7 +1,3 @@
-
-![Logo](https://github.com/user-attachments/assets/9e65541f-a246-4a4a-96cb-0f05f85535e2)
-
-
 # Goodcabs Data Analysis
 
 Goodcabs is a cab service company established in the years 2022, has gained a strong foothold in the Indian market by focusing on tier-2 cities. Unlike other cab service providers, Goodcabs is committed to supporting local drivers, helping them make a sustainable living in their hometowns while ensuring excellent service to passengers. With operations in ten tier-2 cities across India, Goodcabs has set ambitious performance targets for 2024 to drive growth and improve passenger satisfaction. 
@@ -65,5 +61,5 @@ This Transportation and Mobility domain project is a resume based project challa
 ## About Me
 I'm a Data enthusiast, continuously learning to get more data driven decision, with having skills in SQL, Power BI, DAX, Power Query, MS Excel, Python and Pandas.
 
-Let's connect in LinkedIn! [(https://www.linkedin.com/in/padmach-behera/)]
+Let's connect in [LinkedIn!](https://www.linkedin.com/in/padmach-behera/)
 
