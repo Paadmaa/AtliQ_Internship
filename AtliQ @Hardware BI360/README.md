@@ -8,9 +8,8 @@ AtliQ Hardware is growing rapidly in recent years and has decided to implement d
 
 I worked on this project by following the Codebasics Power BI Course. [Link to the course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
+## Live Report
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTI2Nzk4M2ItOWMyNC00MmVjLTk4MjYtMjI3YmVjMjMxNzRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1520a3d763bc46ea945e)
-
-[Video Presentation](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360%20Project%20Presentation.mp4)
 
 ## Tech Stacks
 
@@ -196,6 +195,15 @@ In Home View, all the view buttons are available. Users will land on a specific 
 
 ![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Executive_View.gif)
 
-To view the full report 
-- [Report](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360.pbix)
-- [PDF](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360.pdf)
+
+### Author
+
+Padma Charana Behera  
+
+### Connect with Me
+
+You can find me on these platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
+
