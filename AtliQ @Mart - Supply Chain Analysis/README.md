@@ -65,4 +65,14 @@ AtliqMart should establish a culture of continuous improvement, regularly review
 Overall, AtliqMart should focus on enhancing operational efficiency, optimizing inventory management, and strengthening partnerships with suppliers to improve order fulfillment and customer satisfaction. 
 By addressing these areas, AtliqMart can drive better performance and achieve its business objectives.
 
+# Author
+
+Padma Charana Behera  
+
+# Connect with Me
+
+You can find me on these platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
 
