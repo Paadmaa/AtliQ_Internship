@@ -24,20 +24,13 @@ As a curious Data Analyst of Goodcabs, I am responsible for Providing Insights t
 - Data Modelling
 - Dashboards Building
 
-
-
-
 ## Acknowledgements
 
  - [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-
 ## Appendix
 
-This Transportation and Mobility domain project is a resume based project challange (Challange #13) organised by Codebasics. All the required documentation, dataset and database are provided by Codebasics in the resume project challange portal [https://codebasics.io/challenge/codebasics-resume-project-challenge]. You can also find these details within [RPC13_Input_For_Participants_Source](https://github.com/Nhasan-1001/Goodcabs-Analysis/tree/main/RPC13_Input_For_Participants_Source) directory within this github repository.
-
-
-
+This Transportation and Mobility domain project is a resume based project challange (Challange #13) organised by Codebasics.
 
 ## Screenshots
 
@@ -72,5 +65,5 @@ This Transportation and Mobility domain project is a resume based project challa
 ## About Me
 I'm a Data enthusiast, continuously learning to get more data driven decision, with having skills in SQL, Power BI, DAX, Power Query, MS Excel, Python and Pandas.
 
-Let's connect in LinkedIn! [My-Profile](https://www.linkedin.com/in/nurhasan1/)
+Let's connect in LinkedIn! [(https://www.linkedin.com/in/padmach-behera/)]
 
