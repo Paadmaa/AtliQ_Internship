@@ -86,7 +86,7 @@ This table contains information about policy settlement
 - Check all the data types & changed into necessary data type. Example: Settlement % 
 
 
-# 4. Analyze
+## 4. Analyze
 Data Analyzing  
 Power BI was used to analyze data.
 
@@ -128,13 +128,13 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - Total Customers = COUNT(dim_customer[customer_code])
 - Total Revenue = SUM(fact_premiums[final_premium_amt(INR)])
 
-# 5. Share
+## 5. Share
 ![Screenshot (309)](https://github.com/user-attachments/assets/5927ac1f-62b3-4480-b003-4acd370f7ebd)
 ![Screenshot (310)](https://github.com/user-attachments/assets/5c68c5b8-fa8b-4e1d-8f3d-7bae07c34589)
 ![Screenshot (311)](https://github.com/user-attachments/assets/c97a4674-6b4a-4eca-bc41-929efe37f54d)
 ![Screenshot (312)](https://github.com/user-attachments/assets/44f4ac83-3688-44a0-a670-d35df17ef822)
 
-# 6. Act
+## 6. Act
 ### Insights:	
 - **Customer Base:** Shield Insurance has a total of 26,841 customers.
 - **Revenue:** The company generated a total revenue of 989.25 million.
